@@ -1,0 +1,71 @@
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/TeslaMXUI.iOS.exe
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/TeslaMXUI.iOS.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/TeslaMXUI.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/TeslaMXUI.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/actool/_PartialAppManifest.items
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/coremlc/_PartialAppManifest.items
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/TeslaMXUI.iOS.csprojAssemblyReference.cache
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/TeslaMXUI.iOS.csproj.CoreCompileInputs.cache
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/TeslaMXUI.iOS.csproj.CopyComplete
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/TeslaMXUI.iOS.exe
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/TeslaMXUI.iOS.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/ModeXImage.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/TeslaLogo.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/MediaIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/ChargingIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/ClimateIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/ControlsIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/LocationIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/SummonIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/FanIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/LockIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/ShutDownIcon.png
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/summonNew.png

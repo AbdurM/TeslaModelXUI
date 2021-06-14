@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="TeslaMXUI.MainPage"
+             BackgroundColor="{StaticResource PrimaryLightColor}">
+
+    <StackLayout Margin="0,60,0,0">
+
+        <!-- Car Name-->
+        <StackLayout
+            Orientation="Horizontal"
+            Margin="20,0,0,0">
+            <Image
+                Source="TeslaLogo"
+                HeightRequest="25"/>
+            <Label
+                TextColor="White"
+                Opacity="0.85"
+                Text="Your Model X"
+                FontSize="25"
+                CharacterSpacing="1.5"/>
+            <Image/>
+        </StackLayout>
+
+        <!-- Parking Location-->
+        <StackLayout
+            Margin="20,0,0,0"
+            Orientation="Horizontal">
+            <Label
+                HorizontalOptions="Start"
+                Text="Parked"
+                TextColor="White"
+                FontSize="Small"
+                FontAttributes="Bold"
+                Opacity="0.65"
+                />
+            <Label
+                Text="204 Clarence St, Sydney"
+                HorizontalOptions="Start"
+                FontSize="Small"
+                FontAttributes="Bold"
+                TextColor="{StaticResource SecondaryColor}"
+                />
+        </StackLayout>
+
+        <!--Divider-->
+        <BoxView
+            Margin="20"
+            HeightRequest="1"
+            Opacity="0.65"
+            BackgroundColor="{StaticResource SecondaryColor}"
+            HorizontalOptions="FillAndExpand"/>
+
+        <!--Stats-->
+        <Grid
+             Margin="20,0"
+             HeightRequest="50"
+             RowSpacing="0"
+             ColumnDefinitions="*,*,*,*"
+             RowDefinitions="*,Auto">
+            <Label Text="150 mi" Style="{StaticResource RegularLabelStyle}"/>
+            <Label Grid.Row="1"  Text="Range" Style="{StaticResource SmallLabelStyle}"/>
+            <Label Grid.Column="1" Text="80%" Style="{StaticResource RegularLabelStyle}"  />
+            <Label Grid.Column="1" Grid.Row="1" Text="Charge" Style="{StaticResource SmallLabelStyle}" />
+            <Label Grid.Column="2" Text="64 F" Style="{StaticResource RegularLabelStyle}"/>
+            <Label Grid.Column="2" Grid.Row="1" Text="Temp" Style="{StaticResource SmallLabelStyle}"/>
+            <Label Grid.Column="3" Text="0 mph" Style="{StaticResource RegularLabelStyle}"  />
+            <Label Grid.Column="3" Grid.Row="1" Text="Speed" Style="{StaticResource SmallLabelStyle}"/>
+        </Grid>
+
+        <!-- Image and Car Options-->
+        <Grid
+            HeightRequest="450"
+            VerticalOptions="Start"
+            Margin="0,50,0,0"
+            ColumnDefinitions="*,*,*"
+            RowDefinitions="130,130,130">
+            <Image
+                Grid.RowSpan="3"
+                VerticalOptions="Start"
+                HeightRequest="400"
+                Opacity="1"
+                Margin="-5,0,20,0"
+                Source="ModeXImage"/>
+            <Frame
+                Grid.Column="1"
+                Style="{StaticResource CustomButtonFrameStyle}">
+                <StackLayout
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand">
+                    <Image
+                        Source="MediaIcon"
+                        HeightRequest="40"
+                        HorizontalOptions="Start"/>
+                    <Label
+                        Text="Media"
+                        Style="{StaticResource MicroLabelStyle}"/>
+               </StackLayout>
+            </Frame>
+            <Frame
+                Grid.Column="1"
+                Grid.Row="1"
+                Style="{StaticResource CustomButtonFrameStyle}">
+                <StackLayout
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand">
+                    <Image
+                        Source="LocationIcon"
+                        HeightRequest="45"
+                        HorizontalOptions="Start"/>
+                    <Label
+                        Text="Climate"
+                        Style="{StaticResource MicroLabelStyle}"/>
+               </StackLayout>
+            </Frame>
+            <Frame
+                Grid.Column="1"
+                Grid.Row="2"
+                BackgroundColor="#50515E"
+                Style="{StaticResource CustomButtonFrameStyle}">
+                <StackLayout
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand">
+                    <Image
+                        Source="ControlsIcon"
+                        HeightRequest="45"
+                        HorizontalOptions="Start"/>
+                    <Label
+                        Text="Controls"
+                        Style="{StaticResource MicroLabelStyle}"/>
+               </StackLayout>
+            </Frame>
+
+             <Frame
+                Grid.Column="2"
+                Style="{StaticResource CustomButtonFrameStyle}">
+                <StackLayout
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand">
+                    <Image
+                        Source="ClimateIcon"
+                        HeightRequest="45"
+                        HorizontalOptions="Start"/>
+                    <Label
+                        Text="Climate"
+                        Style="{StaticResource MicroLabelStyle}"/>
+               </StackLayout>
+            </Frame>
+
+             <Frame
+                Grid.Column="2"
+                Grid.Row="1"
+                Style="{StaticResource CustomButtonFrameStyle}">
+                <StackLayout
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand">
+                    <Image
+                        Source="ChargingIcon"
+                        HeightRequest="45"
+                        HorizontalOptions="Start"/>
+                    <Label
+                        Text="Charging"
+                        Style="{StaticResource MicroLabelStyle}"/>
+               </StackLayout>
+            </Frame>
+
+             <Frame
+                Grid.Column="2"
+                Grid.Row="2"
+                BackgroundColor="#50515E"
+                Style="{StaticResource CustomButtonFrameStyle}">
+                <StackLayout
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand">
+                    <Image
+                        Source="summonNew"
+                        HeightRequest="45"
+                        Opacity="0.8"
+                        HorizontalOptions="Start"/>
+                    <Label
+                        Text="Summon"
+                        Style="{StaticResource MicroLabelStyle}"/>
+               </StackLayout>
+            </Frame>
+
+        </Grid>
+
+        <!-- Bottom Button Array-->
+        <yummy:PancakeView
+            BackgroundColor="{StaticResource SecondaryDarkColor}"
+            HeightRequest="230"
+            CornerRadius="30,30,0,0"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="EndAndExpand">
+
+            <Grid
+                Margin="20,0,20,15"
+                ColumnDefinitions="*,*,*"
+                RowDefinitions="3,*,15"
+                RowSpacing="10"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="CenterAndExpand">
+
+                <Frame
+                    Grid.Column="1"
+                    Padding="0"
+                    Opacity="0.70"
+                    Margin="0,-15,0,0"
+                    HeightRequest="3"
+                    WidthRequest="40"
+                    CornerRadius="1.5"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Start"
+                    HasShadow="False"
+                    BackgroundColor="{StaticResource SecondaryColor}"/>
+
+                <!--Fan-->
+                <yummy:PancakeView
+                    Grid.Row="1"
+                    BackgroundColor="{StaticResource SecondaryDarkColor}"
+                    Style="{StaticResource customPancakeButton}">
+                    <Image Source="FanIcon" Style="{StaticResource ButtonImage}"/>
+                </yummy:PancakeView>
+
+                <Label
+                    Grid.Row="2"
+                    Text="Fan off"
+                    Style="{StaticResource SmallWhiteLabelStyle}"/>
+
+                <!--Ignition-->
+                 <yummy:PancakeView
+                     Grid.Column="1"
+                     Grid.Row="1"
+                     BackgroundColor="{StaticResource SecondaryDarkColor}"
+                     Style="{StaticResource customPancakeButton}">
+                     <Image Source="ShutDownIcon" Style="{StaticResource ButtonImage}"/>
+                 </yummy:PancakeView>
+
+                <Label
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    Text="Start Engine"
+                    Style="{StaticResource SmallWhiteLabelStyle}"/>
+
+                <!--Lock-->
+                 <yummy:PancakeView
+                    Grid.Column="2"
+                    Grid.Row="1"
+                    Style="{StaticResource customPancakeButton}">
+                    <Image Source="LockIcon" Style="{StaticResource ButtonImage}"/>
+                  </yummy:PancakeView>
+
+                <Label
+                    Grid.Column="2"
+                    Grid.Row="2"
+                    Text="Locked"
+                    Style="{StaticResource SmallWhiteLabelStyle}"/>
+
+            </Grid>
+
+
+        </yummy:PancakeView>
+    </StackLayout>
+    <ContentPage.Background>
+       <LinearGradientBrush StartPoint="0,0"
+                             EndPoint="0.0,1">
+            <GradientStop Color="{StaticResource PrimaryLightColor}"
+                          Offset="0.4"/>
+            <GradientStop Color="{StaticResource PrimaryDarkColor}"
+                          Offset="1.0"/>
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+</ContentPage>

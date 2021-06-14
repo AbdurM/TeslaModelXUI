@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="TeslaMXUI.App">
+    <Application.Resources>
+
+        <!--Colors-->
+
+        <Color x:Key="PrimaryColor">#494A58</Color>
+        <Color x:Key="PrimaryLightColor">#4E4F5F</Color>
+        <Color x:Key="PrimaryDarkColor"> #30313B</Color>
+        <Color x:Key="SecondaryDarkColor">#585966</Color>
+        <Color x:Key="SecondaryColor">#7D7D8D</Color>
+
+        <!--Label Styles-->
+
+        <Style x:Key="MicroLabelStyle" TargetType="Label">
+            <Setter Property="TextColor" Value="White"/>
+            <Setter Property="FontSize" Value="Micro"/>
+            <Setter Property="Opacity" Value="0.85"/>
+            <Setter Property="Margin" Value="10,0,0,10"/>
+            <Setter Property="VerticalOptions" Value="EndAndExpand"/>
+        </Style>
+
+        <Style  x:Key="RegularLabelStyle" TargetType="Label">
+            <Setter Property="TextColor" Value="White"/>
+            <Setter Property="Opacity" Value="0.75"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="Margin" Value="10,0,0,0"/>
+        </Style>
+
+        <Style  x:Key="SmallLabelStyle" TargetType="Label">
+            <Setter Property="TextColor" Value="{StaticResource SecondaryColor}"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="FontSize" Value="Small"/>
+            <Setter Property="Margin" Value="10,0,0,0"/>
+        </Style>
+
+        <Style  x:Key="SmallWhiteLabelStyle" TargetType="Label">
+            <Setter Property="TextColor" Value="White"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="FontSize" Value="Micro"/>
+            <Setter Property="Margin" Value="0,0,0,0"/>
+            <Setter Property="HorizontalTextAlignment" Value="End"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Start"/>
+            <Setter Property="Opacity" Value="0.8"/>
+        </Style>
+
+        <!--Frame Styles-->
+        
+        <Style x:Key="CustomButtonFrameStyle" TargetType="Frame">
+            <Setter Property="HeightRequest" Value="100"/>
+            <Setter Property="WidthRequest" Value="100"/>
+            <Setter Property="CornerRadius" Value="20"/>
+            <Setter Property="HasShadow" Value="False"/>
+            <Setter Property="BackgroundColor" Value="{StaticResource SecondaryDarkColor}"/>
+            <Setter Property="HorizontalOptions" Value="StartAndExpand"/>
+            <Setter Property="VerticalOptions" Value="StartAndExpand"/>
+            <Setter Property="Padding" Value="5,7,0,10"/>
+            <Setter Property="Margin" Value="0"/>
+        </Style>
+
+        <Style x:Key="customPancakeButton" TargetType="yummy:PancakeView">
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="BackgroundColor" Value="#4E4F5C"/>
+            <Setter Property="CornerRadius" Value="15"/> 
+            <Setter Property="BorderColor" Value="{StaticResource SecondaryColor}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HasShadow" Value="False"/>
+            <Setter Property="HeightRequest" Value="50"/>
+            <Setter Property="WidthRequest" Value="50"/>
+            <Setter Property="Opacity" Value="0.75"/>
+            <Setter Property="Margin" Value="0"/>
+        </Style>
+
+        <!--Image Styles-->
+        <Style x:Key="ButtonImage" TargetType="Image">
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="HeightRequest" Value="25"/>
+            <Setter Property="WidthRequest" Value="25"/>
+        </Style>
+
+    </Application.Resources>
+</Application>

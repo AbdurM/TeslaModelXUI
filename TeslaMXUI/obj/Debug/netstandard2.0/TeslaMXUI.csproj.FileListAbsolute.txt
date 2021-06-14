@@ -1,0 +1,15 @@
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/bin/Debug/netstandard2.0/TeslaMXUI.deps.json
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/bin/Debug/netstandard2.0/TeslaMXUI.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/bin/Debug/netstandard2.0/ref/TeslaMXUI.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/bin/Debug/netstandard2.0/TeslaMXUI.pdb
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/TeslaMXUI.csprojAssemblyReference.cache
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/TeslaMXUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/TeslaMXUI.AssemblyInfoInputs.cache
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/TeslaMXUI.AssemblyInfo.cs
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/TeslaMXUI.csproj.CoreCompileInputs.cache
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/TeslaMXUI.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/ref/TeslaMXUI.dll
+/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI/obj/Debug/netstandard2.0/TeslaMXUI.pdb

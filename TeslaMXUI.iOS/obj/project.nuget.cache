@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xe+xtfidvZwwu2bHbdDUwzk2YWeyWmKtzFosKb1+1cpLKUuc1vVzS/wsmLSBd3N66fV/lMkPZWiGKP6WgL0Oxw==",
+  "success": true,
+  "projectFilePath": "/Users/abdurmohammed/Projects/TeslaMXUI/TeslaMXUI.iOS/TeslaMXUI.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdurmohammed/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/xamarin.forms.pancakeview/1.4.2/xamarin.forms.pancakeview.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
